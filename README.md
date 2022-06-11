@@ -1,4 +1,4 @@
-# 💫About Me :
+💫About Me :
 🔭 I’m currently working on Online kiosk
 👯 I’m looking to collaborate on javascript and react projects
 🤝 I’m looking for help with my Online kiosk
