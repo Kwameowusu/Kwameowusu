@@ -1,5 +1,6 @@
 # 💫About Me :
-🔭 I’m currently working on Online kiosk \n
+🔭 I’m currently working on Online kiosk 
+
 👯 I’m looking to collaborate on javascript and react projects \n
 🤝 I’m looking for help with my Online kiosk \n
 🌱 I’m currently learning typescript and redux \n
