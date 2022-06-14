@@ -1,11 +1,15 @@
 # 💫About Me :
 🔭 I’m currently working on Online kiosk 
 
-👯 I’m looking to collaborate on javascript and react projects \n
-🤝 I’m looking for help with my Online kiosk \n
-🌱 I’m currently learning typescript and redux \n
-💬 Ask me about javascript and react \n
-⚡ Fun fact : The h in javascript stands for happiness \n
+👯 I’m looking to collaborate on javascript and react projects 
+
+🤝 I’m looking for help with my Online kiosk 
+
+🌱 I’m currently learning typescript and redux 
+
+💬 Ask me about javascript and react 
+
+⚡ Fun fact : The h in javascript stands for happiness 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/kwame.owusu.12382923) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/b_owusu_kwame/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwame-owusu-osk/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/Oskwares/_created/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/B_Owusu_kwame) 
